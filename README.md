@@ -12,7 +12,7 @@ Battleship is a classic two-player guessing game where each player attempts to s
 
 * Open a command prompt or terminal window and navigate to the folder where you extracted the code.
 
-* Type python ```battleship.py``` and press Enter to start the game.
+* Type ```python battleship.py``` and press Enter to start the game.
 
 * Follow the prompts to play the game.
 
